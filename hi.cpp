@@ -2,7 +2,10 @@
 
 int main()
 {
-    cout << "Hello from feature1";
     std::cout << "Hello from main";
+    for(int i=0; i<10; i++)
+    {
+        
+    }
     return 0;
 }
